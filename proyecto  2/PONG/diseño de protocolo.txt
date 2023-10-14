@@ -1,0 +1,3 @@
+que tipo de socke va implementar? y porque?
+como es el diseño de protocolo?
+porq escoge uno o otro sockest o ambos y en que escenarios?
